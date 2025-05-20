@@ -2,6 +2,8 @@
 
 A modern Todo application built with Next.js 15, React 19, Redux Toolkit, and Tailwind CSS (Shadcn/UI).
 
+## Link demo: [https://todo-app-nu-three-75.vercel.app/](https://todo-app-nu-three-75.vercel.app/)
+
 ## Getting Started
 
 ### Prerequisites
